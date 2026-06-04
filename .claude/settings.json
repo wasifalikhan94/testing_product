@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git *)",
+      "Bash(gh repo *)",
+      "Bash(gh pr *)",
+      "Bash(gh api *)",
+      "Bash(gh auth *)",
+      "Bash(npm *)",
+      "Bash(node *)",
+      "Bash(source ~/.nvm/nvm.sh*)"
+    ]
+  }
+}
